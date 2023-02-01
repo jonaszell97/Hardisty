@@ -1,6 +1,0 @@
-public struct Hardisty {
-    public private(set) var text = "Hello, World!"
-
-    public init() {
-    }
-}

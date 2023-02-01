@@ -1,0 +1,41 @@
+{
+  "pins" : [
+    {
+      "identity" : "keystone",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jonaszell97/Keystone.git",
+      "state" : {
+        "revision" : "7911ea50eb0656195b9316ebb2a83bf9d1cf14fb",
+        "version" : "0.3.0"
+      }
+    },
+    {
+      "identity" : "panorama",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jonaszell97/Panorama.git",
+      "state" : {
+        "revision" : "3bde5e74d716d5453a1f481b03b0bba0156b98e1",
+        "version" : "0.2.1"
+      }
+    },
+    {
+      "identity" : "toolbox",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jonaszell97/Toolbox.git",
+      "state" : {
+        "revision" : "6d476ca84b19bf7d80d7b816b73ad0c66e5c8f0c",
+        "version" : "0.4.0"
+      }
+    },
+    {
+      "identity" : "uncharted",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/jonaszell97/Uncharted.git",
+      "state" : {
+        "revision" : "2b7fdf5b15ba57b169c9a296703a31efe472a060",
+        "version" : "0.1.0"
+      }
+    }
+  ],
+  "version" : 2
+}
